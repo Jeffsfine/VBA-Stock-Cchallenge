@@ -41,7 +41,7 @@ Dim Percent_Change As Double
 
 Dim start_data As Integer
 
-'Define variable of the worksheet to excute the code in all work sheet at once in the workbook
+'Define variable of the worksheet to excute the code in all work sheet at once in the workbook.
 
 Dim ws As Worksheet
 
