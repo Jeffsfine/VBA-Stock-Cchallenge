@@ -1,5 +1,5 @@
 # VBA-challenge
-This script loops through each stock and outputs the following:
+This script loops through each stock and outputs each of the following:
   - Ticker
   - Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
   - The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
