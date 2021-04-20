@@ -15,4 +15,3 @@ The positive and negative changes are color coded with conditional formatting fo
 ![2015 Stock Data](https://user-images.githubusercontent.com/74028387/115331530-14a39b00-a164-11eb-90d1-56ca879fce59.png)
 ### 2016
 ![2016 Stock Data](https://user-images.githubusercontent.com/74028387/115331532-166d5e80-a164-11eb-993b-a474b3e86176.png)
-
