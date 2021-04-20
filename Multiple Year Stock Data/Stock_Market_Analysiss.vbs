@@ -29,7 +29,7 @@ Dim year_close As Double
 
 Dim Yearly_Change As Double
 
-'Define a variable for total stock volume
+'Define a variable for total stock volume.
 
 Dim Total_Stock_Volume As Double
 
